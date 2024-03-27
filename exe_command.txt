@@ -1,0 +1,4 @@
+pyinstaller --onefile --icon=sims4.ico --hidden-import=keyboard --hidden-import=winsound --hidden-import=tkinter --noconsole sims4_autocheats.py
+
+
+
