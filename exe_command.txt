@@ -10,3 +10,4 @@ pyinstaller --onefile --icon=sims4.ico --hidden-import=keyboard --hidden-import=
 //qRggr1i2rJXZH4RV7H3i/A==
 //ictAWP/f7rOoIJMFUSGmHQ==
 //jGKZZL/rHjSmK5Lmq58NLfu+cmVc3maGPNPatyiQeLBRnfbgI7tX9fjAUiM9D7FL
+//jGKZZL/rHjSmK5Lmq58NLTjJVE9yVKOAVZb43O7lSjukKNuGXFFJigOzxYtAL/1Y
