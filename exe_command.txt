@@ -12,3 +12,11 @@ pyinstaller --onefile --icon=sims4.ico --hidden-import=keyboard --hidden-import=
 //jGKZZL/rHjSmK5Lmq58NLfu+cmVc3maGPNPatyiQeLBRnfbgI7tX9fjAUiM9D7FL
 //jGKZZL/rHjSmK5Lmq58NLTjJVE9yVKOAVZb43O7lSjukKNuGXFFJigOzxYtAL/1Y
 https://www.instagram.com/reel/DHkRQcXKwim/?igsh=MXZtMGQyM3RkZzF3OQ==
+https://www.instagram.com/reel/DLt3mDBP8HF/?igsh=MTF1NjRzZng4cHMzbQ==
+https://www.instagram.com/reel/DKyx3fuR8kI/?igsh=bm84bGg4eTVwOTZ1
+https://www.instagram.com/reel/DIEGajBS0g1/?igsh=OWN1aDA2bGJxbzJu
+https://www.instagram.com/reel/DKhr39rTHa3/?igsh=bDM2N2FkN2R5MGpw
+https://www.instagram.com/reel/DIdM9byRRFL/?igsh=MTR1ZG1nNXJ0ZjVteg==
+https://www.instagram.com/reel/DIY98OryHDH/?igsh=eTdwMnBtN2J0eXcz
+https://www.instagram.com/reel/DMjmQ9jJf1P/?igsh=MWEya3duNnQyZ2k4ZA==
+https://www.instagram.com/reel/DHfiTYcuIdK/?igsh=NzFkemJvNmp0dzA3
