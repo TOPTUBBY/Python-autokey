@@ -13,3 +13,4 @@ pyinstaller --onefile --icon=sims4.ico --hidden-import=keyboard --hidden-import=
 //jGKZZL/rHjSmK5Lmq58NLTjJVE9yVKOAVZb43O7lSjukKNuGXFFJigOzxYtAL/1Y
 https://www.instagram.com/reel/DFzPqhbv0ht/?igsh=d2RvYXM0NDd2d2Qz
 https://www.instagram.com/reel/DKWj-BIxlrt/?igsh=YXBlNjRib203bnJo
+https://www.mediafire.com/file/bbwcnz1pi9gp1k4/Summer+Heat+mod.rar/file
