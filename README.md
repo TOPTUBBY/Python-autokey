@@ -5,12 +5,11 @@
 
   <!-- Badges -->
   <p>
-    <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
     <img alt="Python" src="https://img.shields.io/badge/python-3.x-blue.svg?logo=python&logoColor=white" />
     <img alt="Status" src="https://img.shields.io/badge/status-active-success.svg" />
     <img alt="License" src="https://img.shields.io/badge/license-MIT-green.svg" />
     <img alt="Platform" src="https://img.shields.io/badge/platform-Windows-lightgrey.svg?logo=windows" />
-    <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+    <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-red.svg?cacheSeconds=2592000" />
   </p>
 </div>
 
